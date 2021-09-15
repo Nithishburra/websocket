@@ -1,0 +1,10 @@
+websocket api
+***************
+=> web socket api provided by the HTML5.0
+=> web socket api is the to build the chat application.
+
+
+=> we have to install by the websocket by using 
+1) yarn add websocket
+OR
+2) npm install websocket
